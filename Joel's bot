@@ -1,0 +1,18 @@
+
+
+question = input('')
+
+def answer_ask():
+    if question = ()
+        print()
+    elif: question = ('')
+        answer = input(f'Agora digite a resposta para a pergunta:\n ({question})')
+
+    return answer_ask()
+
+def confirm(answer_ask):
+    yes_no = input(f'Está certo ? \n Pergunta: {question} \n Resposta: {answer} \n Sim, digite: Enviar \n Não, digite: Cancelar')
+    if yes_no = ('Enviar')
+    print('Ok vamos adicionar a pergunta no sistema.')
+    else
+    print('Não iremos continuar com a pergunta.')
